@@ -1,4 +1,4 @@
-# Hi I'm Subhashree 👋 
+# Hi, I'm Subhashree 👋 
 ###### A Data Science & Analytics Sophomore from NUS
 
 ### About Me
