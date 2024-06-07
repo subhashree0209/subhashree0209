@@ -2,7 +2,7 @@
 ###### A Data Science & Analytics Sophomore from NUS
 
 ### About Me
-- 🌱 I'm currently learning: Robotic Process Automation (RPA) using UiPath
+- 🌱 I'm currently learning: Data visualisation tools
 - 📫 How to reach me: https://www.linkedin.com/in/subhashree-panneer/
 
 ### Skills Overview
