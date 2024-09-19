@@ -11,6 +11,8 @@ Programming Languages
 [<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/12168a4b-3ae0-4bf3-9790-f336c469dd85" width="40" height="40">](https://www.python.org/)
 [<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/c5e7e03f-bb58-45a9-933e-74278c2a5275" width="40" height="40">](https://www.r-project.org/)
 [<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/af542b26-8f0b-4ab6-87a5-253fd2279020" width="40" height="40">](https://www.java.com/en/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40">](https://www.javascript.com/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1200px-Google_Apps_Script.svg.png" width="40" height="40">](https://developers.google.com/apps-script)
 
   
 <br /> Database Management
