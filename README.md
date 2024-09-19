@@ -28,12 +28,13 @@ Programming Languages
 
 [<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/b76f0bee-c8ca-4a35-9694-63bbefd5df75" width="50" height="40">](https://www.microsoft.com/en-us/power-platform/products/power-bi)
 [<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/79e879b0-3299-4484-8cf1-3a4d1fc9daa6" width="50" height="50">](https://www.tableau.com/)
-[<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/460f786f-e3db-4d62-b99f-85fbad54acda" width="55" height="55">](https://www.qlik.com/us/products/qlikview)
-  
+[<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/563a783b-f881-434d-a6ec-b28e4af98d12" width="40" height="40">](https://www.microsoft.com/en/microsoft-365/excel)
+
 
 <br /> AI/ Machine Learning
 
 [<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/f59c78e2-7fb7-42cd-b01d-74ac56bd734f" width="80" height="40">](https://scikit-learn.org/stable/)
+
 
 <br /> Business Analytics
   
