@@ -15,10 +15,13 @@ Programming Languages
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1200px-Google_Apps_Script.svg.png" width="40" height="40">](https://developers.google.com/apps-script)
 
   
-<br /> Database Management
+<br /> Database Management/ Warehouse
 
-[<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/33da9d0f-70f5-4dc5-8719-ad2f0a24f623" width="40" height="40">](https://www.sqlite.org/)
-[<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/88b7a789-f9c5-4761-b5b1-7b952ff38a49" width="45" height="45">](https://www.microsoft.com/en-sg/sql-server/sql-server-downloads)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width="40" height="40">](https://www.sqlite.org/)
+[<img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="40" height="40">](https://prestodb.io/)
+[<img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1024px-Microsoft_SQL_Server_Logo.svg.png" width="40" height="40">](https://www.microsoft.com/en-us/sql-server)
+[<img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_bigquery.svg" width="40" height="40">](https://cloud.google.com/bigquery)
+
   
 
 <br /> Data Visualisation
