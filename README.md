@@ -34,7 +34,6 @@ Programming Languages
 <br /> AI/ Machine Learning
 
 [<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/f59c78e2-7fb7-42cd-b01d-74ac56bd734f" width="80" height="40">](https://scikit-learn.org/stable/)
-[<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/abdfad63-09ed-49c4-a33a-21b1bf7c76f3" width="40" height="50">](https://pytorch.org/)
 
 <br /> Business Analytics
   
