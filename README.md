@@ -1,8 +1,8 @@
 # Hi, I'm Subhashree 👋 
-###### A Data Science & Analytics Sophomore from NUS
+###### A Data Science & Analytics undergraduate from NUS
 
 ### About Me
-- 🌱 I'm currently learning: Data visualisation tools
+- 🌱 I'm currently learning: Automation using Google Apps Script and Python
 - 📫 How to reach me: https://www.linkedin.com/in/subhashree-panneer/
 
 ### Skills Overview
