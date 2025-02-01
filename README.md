@@ -21,6 +21,7 @@ Programming Languages
 [<img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="40" height="40">](https://prestodb.io/)
 [<img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1024px-Microsoft_SQL_Server_Logo.svg.png" width="40" height="40">](https://www.microsoft.com/en-us/sql-server)
 [<img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_bigquery.svg" width="40" height="40">](https://cloud.google.com/bigquery)
+[<img src="https://w7.pngwing.com/pngs/381/464/png-transparent-snowflake-computing-technology-cloud-computing-data-warehouse-snow-icon-blue-company-text.png" width="40" height="40">](https://cloud.google.com/bigquery)
 
   
 
