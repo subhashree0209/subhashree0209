@@ -2,7 +2,7 @@
 ###### A Data Science & Analytics undergraduate from NUS
 
 ### About Me
-- 🌱 I'm currently learning: Automation using Google Apps Script and Python
+- 🌱 I'm currently learning: AWS S3 & Lambda for Data Engineering and Automation
 - 📫 How to reach me: https://www.linkedin.com/in/subhashree-panneer/
 
 ### Skills Overview
