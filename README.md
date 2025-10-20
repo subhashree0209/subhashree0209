@@ -14,7 +14,7 @@ Programming Languages
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Apps_Script.svg/1200px-Google_Apps_Script.svg.png" width="40" height="40">](https://developers.google.com/apps-script)
 
   
-<br /> Database Management/ Warehouse
+<br /> Database Management & Cloud Platforms
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" width="40" height="40">](https://www.sqlite.org/)
 [<img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="40" height="40">](https://prestodb.io/)
@@ -22,7 +22,6 @@ Programming Languages
 [<img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_bigquery.svg" width="40" height="40">](https://cloud.google.com/bigquery)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Snowflake_Logo.svg/1280px-Snowflake_Logo.svg.png" width="140" height="35">](https://www.snowflake.com/en/)
 
-  
 
 <br /> Data Visualization/ Business Intelligence
 
@@ -37,3 +36,10 @@ Programming Languages
 [<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/f59c78e2-7fb7-42cd-b01d-74ac56bd734f" width="80" height="40">](https://scikit-learn.org/stable/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/2458px-TensorFlowLogo.svg.png" width="80" height="60">](https://www.tensorflow.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="90" height="50">](https://pytorch.org/)
+
+
+<br /> Cloud Platforms
+
+[<img src="https://logos-world.net/wp-content/uploads/2022/11/Snowflake-Emblem.png" width="100" height="60">](https://www.snowflake.com/en/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png" width="80" height="50">](https://aws.amazon.com/)
+[<img src="https://www.serviops.ca/wp-content/uploads/2015/07/Google-Cloud-Platform-GCP-Logo.png" width="140" height="100">](https://cloud.google.com/)
