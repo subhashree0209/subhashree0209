@@ -2,7 +2,7 @@
 ###### A Data Science & Analytics undergraduate from NUS
 
 ### About Me
-- 🌱 I'm currently learning: Neural machine translation (NMT) and optical character recognition (OCR) systems for automated document parsing.
+- 🌱 I'm currently learning: Neural machine translation (NMT) and optical character recognition (OCR) systems for automated text processing
 - 📫 How to reach me: https://www.linkedin.com/in/subhashree-panneer/
 
 ### Skills Overview
@@ -24,16 +24,16 @@ Programming Languages
 
   
 
-<br /> Data Visualisation/ Business Intelligence
+<br /> Data Visualization/ Business Intelligence
 
-[<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/b76f0bee-c8ca-4a35-9694-63bbefd5df75" width="55" height="40">](https://www.microsoft.com/en-us/power-platform/products/power-bi)
-[<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/79e879b0-3299-4484-8cf1-3a4d1fc9daa6" width="50" height="50">](https://www.tableau.com/)
 [<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/563a783b-f881-434d-a6ec-b28e4af98d12" width="40" height="40">](https://www.microsoft.com/en/microsoft-365/excel)
+[<img src="https://www.pngmart.com/files/23/Power-Bi-Logo-PNG-Pic.png" width="140" height="120">](https://www.microsoft.com/en-us/power-platform/products/power-bi)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="150" height="130">](https://www.tableau.com/)
+
 
 
 <br /> AI/ Machine Learning
 
 [<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/f59c78e2-7fb7-42cd-b01d-74ac56bd734f" width="80" height="40">](https://scikit-learn.org/stable/)
-[<img src="https://www.databricks.com/wp-content/uploads/2019/02/spark-white.png" width="80" height="40">](https://spark.apache.org/)
-
-
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/2458px-TensorFlowLogo.svg.png" width="80" height="60">](https://www.tensorflow.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width="90" height="50">](https://pytorch.org/)
