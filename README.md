@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning: Neural machine translation (NMT) and optical character recognition (OCR) systems for automated text processing
 - 📫 How to reach me: https://www.linkedin.com/in/subhashree-panneer/
 
-### Skills Overview
+### Technical Stack
 Programming Languages
   
 [<img src="https://github.com/subhashree0209/subhashree0209/assets/169425675/12168a4b-3ae0-4bf3-9790-f336c469dd85" width="60" height="60">](https://www.python.org/)
